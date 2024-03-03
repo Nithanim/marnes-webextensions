@@ -1,3 +1,7 @@
+> [!WARNING]
+> This is just a clone from https://gitlab.com/Marnes-group/webextensions
+
+
 # Marnes' WebExtensions
 
 ## Deprecation notice
